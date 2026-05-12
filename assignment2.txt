@@ -1,0 +1,9 @@
+salary calculator function
+
+ 1hr - 2000,
+ 20hr - 20 * 2000
+
+number of hours they work
+what their hourly rate is
+
+
